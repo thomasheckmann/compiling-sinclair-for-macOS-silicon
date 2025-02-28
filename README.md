@@ -29,6 +29,7 @@ Requires:
 * GTK
 * libspectrum (see above)
 
+Build:
 * Jump to a folder where you will keep the project - `cd <my code folder`
 * Downloads source code for [Fuse-1.6.0](https://sourceforge.net/projects/fuse-emulator/files/fuse/1.6.0/fuse-1.6.0.tar.gz/download)
 * Unpack archive - `tar zxvf fuse-1.6.0.tar.gz`
