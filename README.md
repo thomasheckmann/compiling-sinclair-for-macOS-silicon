@@ -24,6 +24,19 @@ A library required by a few tools, such as Fuse and Fuse-utils
 ## Fuse - the Free Unix Spectrum Emulator
 For compiling the X11/GTK version of Fuse for macOS:
 
+Requires:
+* X11 (XQuartz on macOS)
+* GTK
+* libspectrum (see above)
+
+* Jump to a folder where you will keep the project - `cd <my code folder`
+* Downloads source code for [Fuse-1.6.0](https://sourceforge.net/projects/fuse-emulator/files/fuse/1.6.0/fuse-1.6.0.tar.gz/download)
+* Unpack archive - `tar zxvf fuse-1.6.0.tar.gz`
+* Change to folder with code and configure the build - `cd fuse-1.6.0 && ./configure`
+* Build the code - `make`
+* Test by launching fuse - `./fuse`
+
+
 ## Fuse-utils
 
 ## zxsp - ZX Spectrum emulator for macos
