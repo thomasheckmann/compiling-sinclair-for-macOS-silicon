@@ -15,7 +15,7 @@ In general [Homebrew](https://brew.sh/) and XCode is required for being able to 
 ## libspectrum
 A library required by a few tools, such as Fuse and Fuse-utils
 
-* Jump to a folder where you will keep the project - `cd <my code folder`
+* Jump to a folder where you will keep the project - `cd <my code folder>`
 * Clone the source code from [GITHUB](https://github.com/speccytools/libspectrum) - `git clone https://github.com/speccytools/libspectrum`
 * Change to folder with code and configure the build - `cd libspectrum && autoreconf -i && ./configure`
 * Build the code - `make`
@@ -30,7 +30,7 @@ Requires:
 * libspectrum (see above)
 
 Build:
-* Jump to a folder where you will keep the project - `cd <my code folder`
+* Jump to a folder where you will keep the project - `cd <my code folder>`
 * Downloads source code for [Fuse-1.6.0](https://sourceforge.net/projects/fuse-emulator/files/fuse/1.6.0/fuse-1.6.0.tar.gz/download)
 * Unpack archive - `tar zxvf fuse-1.6.0.tar.gz`
 * Change to folder with code and configure the build - `cd fuse-1.6.0 && ./configure`
