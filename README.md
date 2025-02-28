@@ -40,6 +40,17 @@ Build:
 
 ## Fuse-utils
 
+Requires:
+* libspectrum (see above)
+
+Build:
+* Jump to a folder where you will keep the project - `cd <my code folder>`
+* Downloads source for [Fuse-utils-1.4.3](https://sourceforge.net/projects/fuse-emulator/files/fuse-utils/1.4.3/fuse-utils-1.4.3.tar.gz/download)
+* Unpack archive - `tar zxvf fuse-utils-1.4.3.tar.gz`
+* Change to folder with code and configure the build - `cd fuse-utils-1.4.3 && ./configure`
+* Build the code - `make`
+
+
 ## zxsp - ZX Spectrum emulator for macos
 
 ## sz81 (ZX81 Emulator)
