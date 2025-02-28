@@ -1,4 +1,4 @@
-# compiling-sinclair-for-macOS-silicon
+# Compiling Sinclair related tools and programs for macOS Silicon
 Short HOW TO's for compiling Sinclair related programs for macOS on Silicon
 
 * libspectrum
